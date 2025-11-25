@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/markmercado1/ExamenRecuperacion.git
+          uri: https://github.com/notbutter17/ultimochance.git
           searchPaths:
             - jgt-config-data
           default-label: main
@@ -17,4 +17,4 @@ spring:
   security:
     user:
       name: root
-      password: 123456
+      password:

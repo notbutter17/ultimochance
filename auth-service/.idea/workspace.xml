@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="596faeae-7d53-40d0-87aa-b0840f279b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-auth.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/controller/AuthUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/dtos/AuthUserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/dtos/TokenDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/models/AuthUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/repository/AuthUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/security/JwtProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/security/PasswordEncoderConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/service/AuthUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/service/impl/AuthUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/src/main/java/com/cmm/jgtmsgatewayserver/config/AuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/src/main/java/com/cmm/jgtmsgatewayserver/config/WebClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/src/main/java/com/cmm/jgtmsgatewayserver/dto/TokenDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-config-data.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-gateway-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-registry-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-registry-server.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms_curso.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms_matricula.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jgt-ms-gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-ms-config-server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +30,15 @@
     &quot;assignee&quot;: &quot;markmercado1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/markmercado1/ExamenRecuperacion.git",
-    "accountId": "6d647e0d-a8d5-4097-b61a-e81b34d3dd7d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/markmercado1/ExamenRecuperacion.git&quot;,
+    &quot;accountId&quot;: &quot;6d647e0d-a8d5-4097-b61a-e81b34d3dd7d&quot;
   }
+}</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
 }]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -85,7 +70,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/ExamendDis/auth-service",
+    "last_opened_file_path": "C:/Users/Lab Redes/Videos/ExamenRecuperacion-main/ExamenRecuperacion-main/auth-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -127,8 +112,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
       </set>
     </attachedChunks>
   </component>
@@ -170,6 +155,7 @@
       <workItem from="1764082845348" duration="535000" />
       <workItem from="1764087717826" duration="1846000" />
       <workItem from="1764096274802" duration="861000" />
+      <workItem from="1764100310072" duration="233000" />
     </task>
     <servers />
   </component>
