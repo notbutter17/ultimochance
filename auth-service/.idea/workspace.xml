@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="596faeae-7d53-40d0-87aa-b0840f279b61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-auth.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/controller/AuthUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/dtos/AuthUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/dtos/TokenDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/models/AuthUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/repository/AuthUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/security/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/security/PasswordEncoderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/service/AuthUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-auth/src/main/java/com/example/jgtmsauth/service/impl/AuthUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/src/main/java/com/cmm/jgtmsgatewayserver/config/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/src/main/java/com/cmm/jgtmsgatewayserver/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/src/main/java/com/cmm/jgtmsgatewayserver/dto/TokenDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-config-data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-gateway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-registry-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-config-data/jgt-ms-registry-server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms_curso.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-config-data/jgt-ms_matricula.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jgt-ms-gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jgt-ms-gateway-server/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;markmercado1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/markmercado1/ExamenRecuperacion.git",
+    "accountId": "6d647e0d-a8d5-4097-b61a-e81b34d3dd7d"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33hGOFnttbnFfBzGQdxMdxBhxXN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.KeyGenerator.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.AuthServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ExamendDis/auth-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.AuthServiceApplication">
+    <configuration name="KeyGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emm.authservice.security.KeyGenerator" />
+      <module name="auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emm.authservice.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emm.authservice.AuthServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KeyGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596faeae-7d53-40d0-87aa-b0840f279b61" name="Changes" comment="" />
+      <created>1759761856771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759761856771</updated>
+      <workItem from="1759761858028" duration="5659000" />
+      <workItem from="1759783234841" duration="8023000" />
+      <workItem from="1760159972120" duration="2334000" />
+      <workItem from="1760385684558" duration="3758000" />
+      <workItem from="1760669029191" duration="2263000" />
+      <workItem from="1760757167035" duration="13000" />
+      <workItem from="1760925088549" duration="1470000" />
+      <workItem from="1760972131273" duration="1809000" />
+      <workItem from="1761075438753" duration="1315000" />
+      <workItem from="1761409422072" duration="601000" />
+      <workItem from="1761439746232" duration="1123000" />
+      <workItem from="1761516612662" duration="12946000" />
+      <workItem from="1761921696092" duration="52000" />
+      <workItem from="1761956626926" duration="782000" />
+      <workItem from="1761963423192" duration="596000" />
+      <workItem from="1762040732143" duration="601000" />
+      <workItem from="1762054840871" duration="957000" />
+      <workItem from="1762093072320" duration="1058000" />
+      <workItem from="1762193916800" duration="4185000" />
+      <workItem from="1763241844447" duration="696000" />
+      <workItem from="1763339030503" duration="4737000" />
+      <workItem from="1763480287036" duration="1564000" />
+      <workItem from="1763926728735" duration="701000" />
+      <workItem from="1763955999244" duration="192000" />
+      <workItem from="1763995660693" duration="1774000" />
+      <workItem from="1764012701484" duration="649000" />
+      <workItem from="1764082718673" duration="4000" />
+      <workItem from="1764082758791" duration="3000" />
+      <workItem from="1764082845348" duration="535000" />
+      <workItem from="1764087717826" duration="1846000" />
+      <workItem from="1764096274802" duration="861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
